@@ -1,0 +1,13 @@
+
+body
+{
+    background-color: brown;
+}
+p
+{
+    text-align: left;
+}
+table,th,td
+{
+    border: 1px;
+}
